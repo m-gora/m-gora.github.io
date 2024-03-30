@@ -3,7 +3,7 @@ baseURL = "marcodoes.tech"
 languageCode = "en-US"
 title = "Marco Gora"
 theme = "hugo-split-theme"
-disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
+disableKinds = ["section", "taxonomy", "RSS", "sitemap"]
 
 # Local preview mode
 relativeURLs = true
