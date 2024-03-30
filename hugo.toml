@@ -46,39 +46,36 @@ copyright = "&copy;2024 Marco Gora"
   #
   # Links List #1
   [[params.links]]
-    [params.links.list1]
-      heading = "Connect"
+#    [params.links.list1]
+#      heading = "Connect"
 
-      [[params.links.list1.link]]
-        text = "Blog"
-        url = "#"
-        new_tab = true # new tab
+#      [[params.links.list1.link]]
+#        text = "Blog"
+#        url = "#"
+#        new_tab = true # new tab
 
-      [[params.links.list1.link]]
-        text = "Email"
-        url = "#"
-        new_tab = false # Default, open at same tab
+#      [[params.links.list1.link]]
+#        text = "Email"
+#        url = "#"
+#        new_tab = false # Default, open at same tab
 
-      [[params.links.list1.link]]
-        text = "Newsletter"
-        url = "#"
+#      [[params.links.list1.link]]
+#        text = "Newsletter"
+#        url = "#"
 
   # Links List #2
   [[params.links]]
     [params.links.list2]
       heading = "Social"
 
-#      [[params.links.list2.link]]
-#        text = "Twitter"
-#        url = "#"
+      [[params.links.list2.link]]
+        text = "Github"
+        url = "https://github.com/m-gora"
 
-#      [[params.links.list2.link]]
-#        text = "Instagram"
-#        url = "#"
 
       [[params.links.list2.link]]
         text = "LinkedIn"
-        url = "https://linkedin.com/"
+        url = "https://www.linkedin.com/in/marco-gora-8920502b1/"
 
   # Links List #3
 #  [[params.links]]
