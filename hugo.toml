@@ -32,7 +32,7 @@ copyright = "&copy;2024 Marco Gora"
     # Image
     [params.visual.image]
       enable = true
-      file = "images/background.jpg"
+      file = "images/marco.jpg"
       position = "center center"
 
     # Video
