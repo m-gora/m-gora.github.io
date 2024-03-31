@@ -6,3 +6,5 @@ draft: false
 tagline: "IT Consultant. Software Architect. Tech Enthusiast."
 ---
 In my more than 10 years of software engineering experience I passed a lot of stations which gave me a broad skillset in different areas: From Enterprise Application Integration, to Internet of Things to AI. 
+
+Currently I am working in Cross Division Consulting @ Bosch Digital.
