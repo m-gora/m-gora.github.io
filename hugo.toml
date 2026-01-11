@@ -1,100 +1,44 @@
-# Site settings
-baseURL = "marcodoes.tech"
-languageCode = "en-US"
-title = "Marco Gora"
-theme = "hugo-split-theme"
-disableKinds = ["section", "taxonomy", "RSS", "sitemap"]
-
-# Local preview mode
-relativeURLs = true
-uglyURLs = true
-
-# Enter your tracking code to enable Google Analytics
-googleAnalytics = "G-6CY3R5MW5D"
-
-# Copyright
-copyright = "&copy;2024 Marco Gora"
+theme = "careercanvas"
 
 [params]
-
-  # Metadata for search engines and social sharing
+  name = "Marco Gora"
+  tagline = "Eat. Sleep. Architect. Repeat."
+  hero_location = "Berlin, Germany"
+  email = "marco.gora.de@gmail.com"
+  profile_image = "/images/marco.jpg"
+  description = ""
   author = "Marco Gora"
-  description = "Marco's technological portfolio."
-  shareImage = "images/social.jpg"
-  twitterHandle = ""
 
-  # Favicon
-  favicon = "favicon.ico"
-
-  # Section - Visual
-  [params.visual]
-
-    # Image
-    [params.visual.image]
-      enable = true
-      file = "images/marco.jpg"
-      position = "center center"
-
-    # Video
-    [params.visual.video]
-      enable = false
-      mute = true
-      file = "videos/background.mp4"
-      # youtubeId = "dk9uNWPP7EA"
-
-  # Links
-  #
-  # Links List #1
-  [[params.links]]
-#    [params.links.list1]
-#      heading = "Connect"
-
-#      [[params.links.list1.link]]
-#        text = "Blog"
-#        url = "#"
-#        new_tab = true # new tab
-
-#      [[params.links.list1.link]]
-#        text = "Email"
-#        url = "#"
-#        new_tab = false # Default, open at same tab
-
-#      [[params.links.list1.link]]
-#        text = "Newsletter"
-#        url = "#"
-
-  # Links List #2
-  [[params.links]]
-    [params.links.list2]
-      heading = "Social"
-
-      [[params.links.list2.link]]
-        text = "Github"
-        url = "https://github.com/m-gora"
+  # Social Media
+  linkedin_url = "https://www.linkedin.com/in/marco-gora-8920502b1/"
+  linkedin_text = "linkedin.com/in/marco-gora-8920502b1/"
+  github_url = "https://github.com/m-gora"
+  github_text = "github.com/m-gora"
 
 
-      [[params.links.list2.link]]
-        text = "LinkedIn"
-        url = "https://www.linkedin.com/in/marco-gora-8920502b1/"
+  # Resume/CV
+  resume_url_en = "/files/your-resume-en.pdf"  # Path to English resume
+  resume_url_fr = "/files/your-resume-fr.pdf"  # Path to French resume (optional)
+  resume_label = "Full Resume"
 
-  # Links List #3
-#  [[params.links]]
-#    [params.links.list3]
-#      heading = "Network"
+  # Social Icons
+  [[params.social]]
+    icon = "linkedin-in"
+    url = "https://www.linkedin.com/in/marco-gora-8920502b1/"
 
-#      [[params.links.list3.link]]
-#        text = "Link One"
-#        url = "#"
+  [[params.social]]
+    icon = "github"
+    url = "https://github.com/m-gora"
 
-#      [[params.links.list3.link]]
-#        text = "Link Two"
-#        url = "#"
-
-#      [[params.links.list3.link]]
-#        text = "Link Three"
-#        url = "#"
-
-  # The original template is released under the Creative Commons Attribution 3.0 License.
-  # Please keep the original attribution link when using for your own project.
-  # If you'd like to use the template without the attribution, you can check out
-  # the license option via the template author's website: https://onepagelove.com/split
+[params.pexels]
+  # Image search queries for random background images
+  # Customize this list to change the types of images that appear
+  # The system will randomly select from these queries for each page loads
+  queries = [
+    # "galaxy", "nebula", "planet", "astronomy",
+    # "solar system", "black hole", "constellation", "meteor",
+    # "comet", "asteroid", "space station", "satellite",
+    # "structural long span bridges", "structural skycrapers", "astronomy nasa pictures",
+    "universe solar systems nasa pictures", "structural long span bridges",
+    "nebula nasa pictures",
+  ]
