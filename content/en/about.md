@@ -3,7 +3,7 @@ title: "About"
 type: "homepage"
 featured_image: "/images/marco.jpg"
 intro: >-
-  Guten Tag! I am Marco Gora, **solution architect** and **backend engineer**. 
+  Guten Tag! I'm Marco Gora, a **solution architect** who's spent the last decade moving through tech's most interesting challenges. I started building IoT backends for smart meter gateways in highly regulated energy environments, evolved into automotive and AI platforms, and earned my **ISAQB certification** along the way. Through all those shifts—monoliths to microservices, on-premise to cloud, traditional software to AI—one question stayed constant: "How do we actually make this work in production?" 
 
 study: >-
   I studied **Business Informatics** at **Hochschule für Technik und Wirtschaft Berlin** 🎓, specializing in **process management** and **application development**. This foundation enabled me to bridge business requirements with technical implementation throughout my career.

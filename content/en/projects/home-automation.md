@@ -1,7 +1,7 @@
 ---
 title: "Home Server & Automation"
 description: "Building a production-grade home automation platform with enterprise DevOps practices"
-featured_image: ""
+featured_image: "/images/automation.png"
 tags: ["devops", "k3s", "kubernetes", "home-assistant", "automation", "iot"]
 ---
 

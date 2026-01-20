@@ -1,7 +1,7 @@
 ---
 title: "Bandcheck"
 description: "Community-driven content warning platform for safer music discovery"
-featured_image: ""
+featured_image: "/images/bandcheck.png"
 tags: ["typescript", "react", "azure", "terraform", "auth0", "open-source", "community"]
 ---
 

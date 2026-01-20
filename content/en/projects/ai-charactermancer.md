@@ -1,7 +1,7 @@
 ---
 title: "AI Charactermancer"
 description: "Next-generation Pathfinder 1e character builder powered by AI and multi-agent optimization"
-featured_image: ""
+featured_image: "/images/charactermancer.png"
 tags: ["python", "ai", "langgraph", "rag", "multi-agent-systems", "game-design", "pathfinder"]
 ---
 

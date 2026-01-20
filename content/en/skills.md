@@ -12,7 +12,7 @@ domains:
 
   - icon: "brain"
     title: "AI & Machine Learning"
-    description: "Designing AI-powered systems for manufacturing and shopfloor assistance. Built AI serving frameworks with ChatGPT-like experiences. Working with PyTorch, predictive modeling, and MLOps for autonomous driving projects."
+    description: "Designing AI-powered systems for manufacturing and shopfloor assistance. Built AI serving frameworks with ChatGPT-like experiences using LangChain, LangGraph, and Chainlit. Expertise in LLM-based systems and MLOps for autonomous driving projects."
     devicon_class: "devicon-pytorch-plain colored"
 
   - icon: "shield"

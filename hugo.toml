@@ -7,10 +7,13 @@ theme = "careercanvas"
     weight = 1
     [languages.en.params]
       tagline = "Eat. Sleep. Architect. Repeat."
-      hero_description = ""
+      hero_description = "Solution Architect with 10+ years transforming complexity into elegant cloud and AI solutions. From IoT security to AI-powered manufacturing, I bridge the gap between ambitious ideas and production-ready systems."
       hero_location = "Berlin, Germany"
       collab_tags = [
-        ""
+        "Solution Architecture",
+        "Cloud Migration",
+        "AI System Design",
+        "Technical Mentoring"
       ]
 
 # Navigation Menu
@@ -30,14 +33,9 @@ theme = "careercanvas"
   weight = 3
 
 [[menu.main]]
-  name = "Contact"
-  url = "/#contact"
-  weight = 4
-
-[[menu.main]]
   name = "Projects"
   url = "/projects"
-  weight = 5
+  weight = 4
 
 [params]
   name = "Marco Gora"
@@ -45,7 +43,6 @@ theme = "careercanvas"
   hero_location = "Berlin, Germany"
   email = "marco.gora.de@gmail.com"
   profile_image = "/images/marco.jpg"
-  description = ""
   author = "Marco Gora"
 
   # Social Media
@@ -55,9 +52,9 @@ theme = "careercanvas"
   github_text = "github.com/m-gora"
 
 
-  # Resume/CV
-  resume_url_en = "/files/your-resume-en.pdf"  # Path to English resume
-  resume_label = "Full Resume"
+  # Resume/CV - Disabled
+  # resume_url_en = "/files/your-resume-en.pdf"  # Path to English resume
+  # resume_label = "Full Resume"
 
   # Social Icons
   [[params.social]]
@@ -67,6 +64,13 @@ theme = "careercanvas"
   [[params.social]]
     icon = "github"
     url = "https://github.com/m-gora"
+
+[params.color_palettes]
+  [[params.color_palettes.palette]]
+      name = "midnight"
+      main_color = "#0F172A"    # Midnight Blue – deep and authoritative
+      second_color = "#8B5CF6"  # Purple – innovation and technology
+      third_color = "#06B6D4"   # Cyan – precision and clarity
 
 [params.pexels]
   # Image search queries for random background images

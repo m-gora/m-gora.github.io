@@ -4,9 +4,6 @@ type: "homepage"
 intro: >-
   From structural engineering to AI development, building practical tools that bridge traditional engineering with modern technology.
 
-resume_url_en: ""
-resume_label: "Download Resume"
-
 positions:
   - company: "Bosch Digital"
     company_url: "https://bosch-digital.com"

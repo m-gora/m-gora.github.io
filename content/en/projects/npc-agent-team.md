@@ -1,7 +1,7 @@
 ---
 title: "NPC Agent Team"
 description: "AI-powered NPCs that think, react, and evolve—bringing tabletop RPG worlds to life"
-featured_image: ""
+featured_image: "/images/npc.png"
 tags: ["python", "ai", "langgraph", "llm", "game-design", "multi-agent-systems"]
 ---
 
