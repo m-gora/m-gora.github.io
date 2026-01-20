@@ -6,17 +6,17 @@ intro: >-
   Guten Tag! I am Marco Gora, **solution architect** and **backend engineer**. 
 
 study: >-
-  Currently based in **Montréal** 🇨🇦, I'm deepening my skills in **Artificial Intelligence and Machine Learning** 🤖 at **Collège LaSalle**. I work with **Python** 🐍, **PyTorch**, and **predictive modeling** 📊 to build intelligent systems that bridge the gap between engineering and data science.
+  I studied **Business Informatics** at **Hochschule für Technik und Wirtschaft Berlin** 🎓, specializing in **process management** and **application development**. This foundation enabled me to bridge business requirements with technical implementation throughout my career.
 
 passion_title: "Why I love my field of work"
 passion_text: >-
-  I really love do deliver amazing user experiences, while simultaneously keeping the business metrics in check. 
+  I thrive working with **intelligent and motivated people** who push boundaries. My focus on **user experience** sometimes clashes with customer requirements—that's where my **consulting skills** shine. What drives me most is **dismantling technical complexity** and transforming it into elegant, simple solutions that users actually enjoy. 
 
 mix: >-
-  Due to my experience in multiple domains over 10 years, I am flexible and can work myself into new domains pretty quickly. Also my technical curiosity led me through a couple of software engineering paradigm shifts over the course of my career.
+  With **10+ years** spanning **e-commerce**, **energy**, **automotive IoT**, and **AI-powered manufacturing**, I've navigated multiple paradigm shifts—from monoliths to microservices, on-premise to cloud, and traditional software to AI systems. This breadth enables me to quickly adapt to new domains while bringing proven architectural patterns.
 
 personal: >-
-  Outside work, I enjoy **cooking** 👨‍🍳, **music** 🎵, **travelling** 🧳, **role playing** 🎲 and **socializing** 💬.
+  Outside work, I run a **home automation setup** with k3s, Home Assistant, and Zigbee2MQTT 🏠, enjoy **tabletop RPGs** 🎲, **cooking** 👨‍🍳, **music** 🎵, **travelling** ✈️, and **socializing** with friends—whether that's trying axe throwing 🪓 or exploring new experiences 💬.
 
 quickfacts:
   - icon: "briefcase"
@@ -36,5 +36,7 @@ quickfacts:
   - icon: "heart"
     title: "Interests"
     value: |
-      - 
+      - Home Lab & Automation (k3s, Home Assistant)
+      - Tabletop RPGs & Cooking
+      - Music & Travelling 
 ---
