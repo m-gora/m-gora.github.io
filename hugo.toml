@@ -1,5 +1,44 @@
 theme = "careercanvas"
 
+[languages]
+  [languages.en]
+    contentDir = "content/en"
+    languageName = "English"
+    weight = 1
+    [languages.en.params]
+      tagline = "Eat. Sleep. Architect. Repeat."
+      hero_description = ""
+      hero_location = "Berlin, Germany"
+      collab_tags = [
+        ""
+      ]
+
+# Navigation Menu
+[[menu.main]]
+  name = "About"
+  url = "/#about"
+  weight = 1
+
+[[menu.main]]
+  name = "Skills"
+  url = "/#skills"
+  weight = 2
+
+[[menu.main]]
+  name = "Experience"
+  url = "/#experience"
+  weight = 3
+
+[[menu.main]]
+  name = "Contact"
+  url = "/#contact"
+  weight = 4
+
+[[menu.main]]
+  name = "Projects"
+  url = "/projects"
+  weight = 5
+
 [params]
   name = "Marco Gora"
   tagline = "Eat. Sleep. Architect. Repeat."
@@ -18,7 +57,6 @@ theme = "careercanvas"
 
   # Resume/CV
   resume_url_en = "/files/your-resume-en.pdf"  # Path to English resume
-  resume_url_fr = "/files/your-resume-fr.pdf"  # Path to French resume (optional)
   resume_label = "Full Resume"
 
   # Social Icons
